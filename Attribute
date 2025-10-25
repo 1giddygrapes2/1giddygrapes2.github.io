@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Credits / Attribution</title>
+  <style>
+    body { font-family: system-ui, sans-serif; margin: 20px; background: #fff; }
+    h2 { text-align: center; }
+    ul { list-style: none; padding: 0; }
+    li { margin: 10px 0; }
+  </style>
+</head>
+<body>
+  <h2>Credits / Licenses</h2>
+  <p>These are the open-source or public domain games currently used.</p>
+  <ul>
+    <li>
+      🔧 EDIT THIS — <strong>Game 1 Name</strong>  
+      by 🔧 EDIT THIS — Author Name  
+      License: 🔧 EDIT THIS — (Example: MIT, CC0)
+    </li>
+    <li>
+      🔧 EDIT THIS — <strong>Game 2 Name</strong>  
+      by 🔧 EDIT THIS — Author Name  
+      License: 🔧 EDIT THIS — (Example: MIT, CC0)
+    </li>
+  </ul>
+</body>
+</html>
